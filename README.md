@@ -1,16 +1,16 @@
 # Activ-Gaming-v1.1.5
 > Mon premier grand projet
-# Resumé
+## Resumé
 
 Application web rédigé principalement en HTML/CSS/PHP procédural. \n
 Il a pour but de permettre aux nouveaux joueurs de s'inscrire dans la communauté et de valider leurs droits sur le vocal via un Framework PHP.
 
-# Liens
+## Liens
 
-http://guillian-aufrere.fr/
-http://guillian-aufrere.fr/webroot/demo/activgaming/
+(http://guillian-aufrere.fr/)
+(http://guillian-aufrere.fr/webroot/demo/activgaming/)
 
-# Technologies
+## Technologies
 
 - Revelio - The Gaming Template HTML de datcouch
 - HTML5
