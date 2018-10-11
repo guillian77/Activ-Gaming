@@ -7,8 +7,10 @@ Il a pour but de permettre aux nouveaux joueurs de s'inscrire dans la communaut�
 
 ## Liens
 
-[Mon CV](http://guillian-aufrere.fr/). \n
-[Démonstration en ligne](http://guillian-aufrere.fr/webroot/demo/activgaming/).
+[Mon CV](http://guillian-aufrere.fr/)
+
+
+[Démonstration en ligne](http://guillian-aufrere.fr/webroot/demo/activgaming/)
 
 ## Technologies
 
